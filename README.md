@@ -1,2 +1,2 @@
 # DQToken
-stellar.toml files for the untokens project
+stellar.toml files for the dq project 
